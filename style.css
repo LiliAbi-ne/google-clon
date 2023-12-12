@@ -1,0 +1,219 @@
+
+.lkit {
+    font: 13px/27px Arial, sans-serif;
+    height: 48px;
+    white-space: nowrap;
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+.icono {
+    width: 45px;
+    height: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: center, space-between;
+    cursor: pointer;
+}
+
+
+#gmail {
+    padding: 10px 10px;
+    text-decoration: none;
+    color: inherit;
+}
+
+#Img {
+    padding: 10px 10px;
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu {
+    padding: 1px;
+    height: 40px;
+    width: 40px;
+    display: inline-block;
+    outline: none;
+    vertical-align: middle;
+    border-radius: 2px;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+
+#lupa {
+    color: #9aa0a6;
+    width: 24px; 
+    height: 24px;
+    margin-right: 10px;
+
+}
+
+.Acceder {
+    background-color: #1a73e8;
+    border: none;
+    color: black;
+    cursor: pointer;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.imgGoogle {
+    display: flex;
+    max-height: 100%;
+    max-width: 100%;
+    object-fit: contain;
+    object-position: center bottom;
+    width: auto;
+    vertical-align: bottom;
+    align-items: center;
+    justify-content: center;
+}
+
+.ipsds {
+    
+    padding-right: 4px;
+    padding-bottom: 50px;
+    padding-left: 4px;
+    max-width: 450px;
+    display: flex;
+    align-items: center;
+    justify-content: center, space-between;
+
+    
+}
+
+#buscador {
+    resize: none;
+    width: 100px;
+    background-color: transparent;
+    border: none;
+    margin: auto;
+    
+    color: black;
+    
+    outline: none;
+    
+}
+
+
+.estilobusc {
+    display: block;
+    position: relative;
+    height: 50px;
+    background: #d1dcfe;
+    border: 1px solid #e2ecf8;
+    box-shadow: none;
+    border-radius: 14px;
+    margin: 0 auto;
+    max-width: 500px;
+    align-content: stretch;
+}
+
+
+.BscGoogle {
+    display: flex;
+    background-color: #303134;
+    border: 1px solid #303134;
+    border-radius: 4px;
+    color: #e8eaed;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+    text-decoration: none;
+
+}
+
+#Suerte {
+    
+    background-color: #303134;
+    border: 1px solid #303134;
+    border-radius: 4px;
+    color: #e8eaed;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none
+}
+
+.centro
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.cent
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: -150px;
+    
+}
+
+#idioma
+{
+    display: flex;
+    justify-content: center;
+    align-content: stretch;
+    flex-direction: row;
+    align-items: baseline;
+}
+.Español
+{
+    color: #1a73e8;
+    width: 10px;
+
+}
+.Nacio
+{
+    padding: 15px 30px;
+    border-bottom: 1px solid #9aa0a6;
+    font-size: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center, space-between;
+    align-items: center;
+    background-color: #797a7c;
+}
+.prim
+{
+    display: flex;
+    white-space: nowrap;
+    padding: 30px 30px;
+    background-color: #797a7c;
+    justify-content: space-between;
+ 
+}
+
+.sobre
+{
+    padding: 5px 10px;
+    text-decoration: none;
+    color: inherit;
+}
+
+
+
+
+
