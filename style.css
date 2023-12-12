@@ -1,4 +1,10 @@
-
+main{
+    margin-bottom: 24px;
+    margin: 100px;
+}
+footer{
+    margin-bottom: 0px;
+}
 .lkit {
     font: 13px/27px Arial, sans-serif;
     height: 48px;
@@ -170,6 +176,7 @@
     width: -150px;
     
 }
+
 
 #idioma
 {
